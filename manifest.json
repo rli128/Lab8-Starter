@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "https://github.com/rli128/Lab8-Starter",
+    "short_name": "Ricky Li",
     "description": "",
     "start_url": "",
-    "display": "",
-    "background_color": "",
+    "display": "standalone",
+    "background_color": "blue",
     "theme_color": "",
     "icons": [
       {
